@@ -1,4 +1,4 @@
-**API 키 준비**
+### API 키 준비
 
 ```bash
 # .env 파일 생성
@@ -26,7 +26,6 @@ docker run -p 5000:5000 notion-chatbot
 
 ```
 
-https://github.com/munchlax125/notion-bot/blob/main/requirements.txt
 
 ### 실행 결과
 
